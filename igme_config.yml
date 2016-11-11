@@ -1,0 +1,14 @@
+series: Vector Mathematics
+title: Projection and Rejection
+author:
+  name: Andrew Litfin
+  email:
+  github: astrodude80
+description: This example defines the projection and rejection operations.
+language: C++
+tags:
+  - Math
+extra_resources:
+  - title: The Wikipedia article on Vector Projection.
+    link: https://en.wikipedia.org/wiki/Vector_projection
+connections:
