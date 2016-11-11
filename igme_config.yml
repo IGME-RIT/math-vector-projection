@@ -12,3 +12,5 @@ extra_resources:
   - title: The Wikipedia article on Vector Projection.
     link: https://en.wikipedia.org/wiki/Vector_projection
 connections:
+  - series: Vector Mathematics
+    title: Intermediate Vector Ops
